@@ -31,11 +31,11 @@
 			</div>
 			<div class="form-inline">
 				<input type="text" name="department" value="${student.department}"
-				class="form-control mb-4 col-4" placeholder="First Name"/>
+				class="form-control mb-4 col-4" placeholder="department"/>
 			</div>
 			<div class="form-inline">
 				<input type="text" name="country" value="${student.country}"
-				class="form-control mb-4 col-4" placeholder="First Name"/>
+				class="form-control mb-4 col-4" placeholder="country"/>
 			</div>
 			 <button type="submit" class="btn btn-info col-2" >Save</button>
 		</form>
